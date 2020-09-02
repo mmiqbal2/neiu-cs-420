@@ -24,6 +24,3 @@ restrictions are being lifted from one country to another country. From my appli
 updated information to users so that they may find and travel to safest country as per the data by my application.
 I am trying to get all the information that a user need at one spot which is my TrackCovid App So the user will not 
 have spend much time than necessary on deciding where they want to travel.
-
-
-The link to the repository of neiu-cs-420 is https://github.com/mmiqbal2/neiu-cs-420
