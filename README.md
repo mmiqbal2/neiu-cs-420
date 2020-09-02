@@ -23,5 +23,6 @@ From this Application I am hoping to accomplish below results.
 
 The reason behind why I am developing this application because now people have started travelling. As the travel 
 restrictions are being lifted from one country to another country. From my application I am trying bring the most
-updated information to users so that they may find and travel to safest country as per the data. By Application I 
-am trying to get all the information that a user need at one spot which is my TrackCovid App. 
+updated information to users so that they may find and travel to safest country as per the data. By my Application 
+I am trying to get all the information that a user need at one spot which is my TrackCovid App. So the user will not 
+have spend much more time than necessary on deciding where they want to travel.
