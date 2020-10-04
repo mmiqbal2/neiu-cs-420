@@ -32,33 +32,8 @@ public class CovidApp extends Application {
         FilterCountries fc = new FilterCountries();
         CN.CallNIO();
         fc.FileData();
-        final ComboBox<String> categories = new ComboBox<>();
-        categories.setPromptText("Select a Category");
-        categories.getItems().addAll(
-                fc.getMapping().keySet()
-        );
-
-        final ComboBox<Countries> subCategory = new ComboBox<Countries>();
-        subCategory.setVisible(false);
-
-        categories.valueProperty().addListener(new ChangeListener<String>() {
-            @Override
-            public void changed(ObservableValue<? extends String> observable, String oldValue, String newValue) {
-                subCategory.getItems().clear();
-                subCategory.getItems().addAll(
-                        fc.getMapping().get(newValue)
-                );
-                    subCategory.setVisible(true);
-            }
-        });
-
-        BorderPane pane = new BorderPane();
-        pane.setTop(categories);
-        pane.setCenter(subCategory);
-        Scene scene = new Scene(pane, 300, 300);
-        stage.setScene(scene);
-        stage.setTitle("Covid-19");
-        stage.show();
+        CN.BoxCreator(stage, fc);
 
     }
+
 }
