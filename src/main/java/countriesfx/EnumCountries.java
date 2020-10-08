@@ -1,4 +1,4 @@
-package CountriesFX;
+package countriesfx;
 
 public enum EnumCountries {
     LOW(0,30000),

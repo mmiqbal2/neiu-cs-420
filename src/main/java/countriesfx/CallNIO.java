@@ -1,4 +1,4 @@
-package CountriesFX;
+package countriesfx;
 
 
 import javafx.beans.value.ChangeListener;
@@ -14,15 +14,15 @@ public class CallNIO {
     private static String data;
 
       public void CallNIO(){
-        NIOreadFile NIO = new NIOreadFile();
-        FilterCountries FC = new FilterCountries();
+        NioReadFile NIO = new NioReadFile();
+        FilterCountries FilterC = new FilterCountries();
         NIO.ReadFile();
-        FC.FileData();
-        System.out.println(FC);
+        FilterC.FileData();
     }
 
-     ComboBox<Countries> secondBox(FilterCountries fc, ComboBox<EnumCountries> categories) {
+     public ComboBox<Countries> secondBox(FilterCountries fc, ComboBox<EnumCountries> categories) {
         final ComboBox<Countries> subCategory = new ComboBox<Countries>();
+         subCategory.setPromptText("Select a Value");
         subCategory.setVisible(false);
 
         categories.valueProperty().addListener(new ChangeListener<EnumCountries>() {
@@ -38,7 +38,7 @@ public class CallNIO {
         return subCategory;
     }
 
-     ComboBox<EnumCountries> firstBox(FilterCountries fc) {
+     public ComboBox<EnumCountries> firstBox(FilterCountries fc) {
         final ComboBox<EnumCountries> categories = new ComboBox<>();
         categories.setPromptText("Select a Category");
         List sortedKeys = new ArrayList(fc.getMapping().keySet());

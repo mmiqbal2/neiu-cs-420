@@ -1,12 +1,8 @@
-package GetApiData;
+package getapidata;
 
 import org.json.simple.parser.ParseException;
 
-import javax.ws.rs.HttpMethod;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.net.HttpURLConnection;
-import java.net.URL;
 
 public class CheckConn {
 

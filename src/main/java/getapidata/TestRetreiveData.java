@@ -1,4 +1,4 @@
-package GetApiData;
+package getapidata;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -11,8 +11,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.ProtocolException;
 import java.net.URL;
 
 public class TestRetreiveData {

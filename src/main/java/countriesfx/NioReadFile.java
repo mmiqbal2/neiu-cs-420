@@ -1,9 +1,9 @@
-package CountriesFX;
+package countriesfx;
 
 import java.io.*;
 import java.util.Scanner;
 
-public class NIOreadFile {
+public class NioReadFile {
 
    public String ReadFile() {
        FilterCountries NIOtoFC = new FilterCountries();

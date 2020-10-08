@@ -1,4 +1,4 @@
-package CountriesFX;
+package countriesfx;
 
 import java.util.*;
 
@@ -16,7 +16,6 @@ public class CountriesMapping {
         cMap.put(EnumCountries.LOW,low);
         cMap.put(EnumCountries.MEDIUM,medium);
         cMap.put(EnumCountries.HIGH,high);
-        System.out.println(cMap);
 
         return cMap;
     }

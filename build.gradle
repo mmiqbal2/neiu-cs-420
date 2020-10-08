@@ -40,4 +40,4 @@ javafx {
     modules = ['javafx.controls']
 }
 
-mainClassName = 'CountriesFX.CovidApp'
+mainClassName = 'CovidApp'

@@ -1,4 +1,4 @@
-package CountriesFX;
+package countriesfx;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,7 +9,7 @@ import java.util.List;
 
 public class FilterCountries {
 
-    NIOreadFile file = new NIOreadFile();
+    NioReadFile file = new NioReadFile();
     public static ArrayList<Countries> data;
 
 

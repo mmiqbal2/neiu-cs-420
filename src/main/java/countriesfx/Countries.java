@@ -1,17 +1,17 @@
-package CountriesFX;
+package countriesfx;
 
 import java.util.*;
 
 public class Countries {
 
     private String CurrentDate;
-    private String County;
+    private String Country;
     private int NewConfirmed;
     private int TotalConfirmed;
 
     public Countries(String currentDate, String country, int newConfirmed, int totalConfirmed) {
         CurrentDate = currentDate;
-        County = country;
+        Country = country;
         NewConfirmed = newConfirmed;
         TotalConfirmed = totalConfirmed;
     }
@@ -24,12 +24,12 @@ public class Countries {
         CurrentDate = currentDate;
     }
 
-    public String getCounty() {
-        return County;
+    public String getCountry() {
+        return Country;
     }
 
-    public void setCounty(String county) {
-        County = county;
+    public void setCountry(String country) {
+        Country = country;
     }
 
     public int getNewConfirmed() {
@@ -53,15 +53,15 @@ public class Countries {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Countries countries = (Countries) o;
-        return CurrentDate == countries.CurrentDate &&
+        return CurrentDate.equals(countries.CurrentDate) &&
                 NewConfirmed == countries.NewConfirmed &&
                 TotalConfirmed == countries.TotalConfirmed &&
-                Objects.equals(County, countries.County);
+                Objects.equals(Country, countries.Country);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(CurrentDate, County, NewConfirmed, TotalConfirmed);
+        return Objects.hash(CurrentDate, Country, NewConfirmed, TotalConfirmed);
     }
 
 
@@ -69,7 +69,7 @@ public class Countries {
     public String toString() {
         return "\nCountries{" +
                 "CurrentDate=" + CurrentDate +
-                ", County='" + County + '\'' +
+                ", County='" + Country + '\'' +
                 ", NewConfirmed=" + NewConfirmed +
                 ", TotalConfirmed=" + TotalConfirmed +
                 "}";
