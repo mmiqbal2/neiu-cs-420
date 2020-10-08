@@ -15,7 +15,7 @@ public class FilterCountries {
 
     public static void FileData(){
         try (BufferedReader br = new BufferedReader(new FileReader("src/main/resources/covid.txt"))) {
-            data = new ArrayList<>();
+            data = new ArrayList<Countries>();
             String date="", country="";
             int nc =0, tc = 0;
             splitted(br, date, country, nc, tc);
@@ -27,7 +27,7 @@ public class FilterCountries {
         }
     }
 
-    public static HashMap<String,List<Countries>> getMapping(){
+    public static HashMap<EnumCountries, List<Countries>> getMapping(){
         CountriesMapping countriesMapping = new CountriesMapping();
         return (countriesMapping.countryMap(data));
 
@@ -36,6 +36,7 @@ public class FilterCountries {
     private static void splitted(BufferedReader br, String date, String country, int nc, int tc) throws IOException {
         String[] line;
         String coun;
+
         while ((coun=br.readLine()) != null) {
             line = coun.split(" ");
             for(int i=0;i<line.length;i++) {

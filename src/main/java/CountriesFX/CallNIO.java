@@ -3,10 +3,11 @@ package CountriesFX;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
-import javafx.scene.Scene;
 import javafx.scene.control.ComboBox;
-import javafx.scene.layout.BorderPane;
-import javafx.stage.Stage;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class CallNIO {
 
@@ -20,19 +21,13 @@ public class CallNIO {
         System.out.println(FC);
     }
 
-    public void BoxCreator(Stage stage, FilterCountries fc) {
-        final ComboBox<String> categories = new ComboBox<>();
-        categories.setPromptText("Select a Category");
-        categories.getItems().addAll(
-                fc.getMapping().keySet()
-        );
-
+     ComboBox<Countries> secondBox(FilterCountries fc, ComboBox<EnumCountries> categories) {
         final ComboBox<Countries> subCategory = new ComboBox<Countries>();
         subCategory.setVisible(false);
 
-        categories.valueProperty().addListener(new ChangeListener<String>() {
+        categories.valueProperty().addListener(new ChangeListener<EnumCountries>() {
             @Override
-            public void changed(ObservableValue<? extends String> observable, String oldValue, String newValue) {
+            public void changed(ObservableValue<? extends EnumCountries> observable, EnumCountries oldValue, EnumCountries newValue) {
                 subCategory.getItems().clear();
                 subCategory.getItems().addAll(
                         fc.getMapping().get(newValue)
@@ -40,13 +35,15 @@ public class CallNIO {
                 subCategory.setVisible(true);
             }
         });
+        return subCategory;
+    }
 
-        BorderPane pane = new BorderPane();
-        pane.setTop(categories);
-        pane.setCenter(subCategory);
-        Scene scene = new Scene(pane, 300, 300);
-        stage.setScene(scene);
-        stage.setTitle("Covid-19");
-        stage.show();
+     ComboBox<EnumCountries> firstBox(FilterCountries fc) {
+        final ComboBox<EnumCountries> categories = new ComboBox<>();
+        categories.setPromptText("Select a Category");
+        List sortedKeys = new ArrayList(fc.getMapping().keySet());
+        Collections.sort(sortedKeys);
+        categories.getItems().addAll(sortedKeys);
+        return categories;
     }
 }
