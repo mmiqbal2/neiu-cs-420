@@ -1,188 +1,189 @@
- Date: 2020-10-08T05:29:04Z Country: Afghanistan NewConfirmed: 62 TotalConfirmed: 39548
- Date: 2020-10-08T05:29:04Z Country: Albania NewConfirmed: 162 TotalConfirmed: 14730
- Date: 2020-10-08T05:29:04Z Country: Algeria NewConfirmed: 121 TotalConfirmed: 52520
- Date: 2020-10-08T05:29:04Z Country: Andorra NewConfirmed: 198 TotalConfirmed: 2568
- Date: 2020-10-08T05:29:04Z Country: Angola NewConfirmed: 0 TotalConfirmed: 5725
- Date: 2020-10-08T05:29:04Z Country: Antigua and Barbuda NewConfirmed: 1 TotalConfirmed: 108
- Date: 2020-10-08T05:29:04Z Country: Argentina NewConfirmed: 16447 TotalConfirmed: 840915
- Date: 2020-10-08T05:29:04Z Country: Armenia NewConfirmed: 672 TotalConfirmed: 53755
- Date: 2020-10-08T05:29:04Z Country: Australia NewConfirmed: 25 TotalConfirmed: 27206
- Date: 2020-10-08T05:29:04Z Country: Austria NewConfirmed: 1029 TotalConfirmed: 50848
- Date: 2020-10-08T05:29:04Z Country: Azerbaijan NewConfirmed: 182 TotalConfirmed: 41113
- Date: 2020-10-08T05:29:04Z Country: Bahamas NewConfirmed: 154 TotalConfirmed: 4713
- Date: 2020-10-08T05:29:04Z Country: Bahrain NewConfirmed: 456 TotalConfirmed: 73932
- Date: 2020-10-08T05:29:04Z Country: Bangladesh NewConfirmed: 1520 TotalConfirmed: 373151
- Date: 2020-10-08T05:29:04Z Country: Barbados NewConfirmed: 3 TotalConfirmed: 203
- Date: 2020-10-08T05:29:04Z Country: Belarus NewConfirmed: 415 TotalConfirmed: 81505
- Date: 2020-10-08T05:29:04Z Country: Belgium NewConfirmed: 3577 TotalConfirmed: 137868
- Date: 2020-10-08T05:29:04Z Country: Belize NewConfirmed: 67 TotalConfirmed: 2310
- Date: 2020-10-08T05:29:04Z Country: Benin NewConfirmed: 54 TotalConfirmed: 2411
- Date: 2020-10-08T05:29:04Z Country: Bhutan NewConfirmed: 4 TotalConfirmed: 304
- Date: 2020-10-08T05:29:04Z Country: Bolivia NewConfirmed: 238 TotalConfirmed: 137706
- Date: 2020-10-08T05:29:04Z Country: Bosnia and Herzegovina NewConfirmed: 365 TotalConfirmed: 29075
- Date: 2020-10-08T05:29:04Z Country: Botswana NewConfirmed: 0 TotalConfirmed: 3172
- Date: 2020-10-08T05:29:04Z Country: Brazil NewConfirmed: 31553 TotalConfirmed: 5000694
- Date: 2020-10-08T05:29:04Z Country: Brunei Darussalam NewConfirmed: 0 TotalConfirmed: 146
- Date: 2020-10-08T05:29:04Z Country: Bulgaria NewConfirmed: 437 TotalConfirmed: 22743
- Date: 2020-10-08T05:29:04Z Country: Burkina Faso NewConfirmed: 25 TotalConfirmed: 2222
- Date: 2020-10-08T05:29:04Z Country: Burundi NewConfirmed: 1 TotalConfirmed: 515
- Date: 2020-10-08T05:29:04Z Country: Cambodia NewConfirmed: 1 TotalConfirmed: 281
- Date: 2020-10-08T05:29:04Z Country: Cameroon NewConfirmed: 0 TotalConfirmed: 20924
- Date: 2020-10-08T05:29:04Z Country: Canada NewConfirmed: 1624 TotalConfirmed: 175367
- Date: 2020-10-08T05:29:04Z Country: Cape Verde NewConfirmed: 106 TotalConfirmed: 6624
- Date: 2020-10-08T05:29:04Z Country: Central African Republic NewConfirmed: 0 TotalConfirmed: 4852
- Date: 2020-10-08T05:29:04Z Country: Chad NewConfirmed: 13 TotalConfirmed: 1251
- Date: 2020-10-08T05:29:04Z Country: Chile NewConfirmed: 1134 TotalConfirmed: 474440
- Date: 2020-10-08T05:29:04Z Country: China NewConfirmed: 20 TotalConfirmed: 90687
- Date: 2020-10-08T05:29:04Z Country: Colombia NewConfirmed: 7876 TotalConfirmed: 877684
- Date: 2020-10-08T05:29:04Z Country: Comoros NewConfirmed: 0 TotalConfirmed: 491
- Date: 2020-10-08T05:29:04Z Country: Congo (Brazzaville) NewConfirmed: 0 TotalConfirmed: 5089
- Date: 2020-10-08T05:29:04Z Country: Congo (Kinshasa) NewConfirmed: 15 TotalConfirmed: 10804
- Date: 2020-10-08T05:29:04Z Country: Costa Rica NewConfirmed: 1355 TotalConfirmed: 83497
- Date: 2020-10-08T05:29:04Z Country: Croatia NewConfirmed: 363 TotalConfirmed: 18447
- Date: 2020-10-08T05:29:04Z Country: Cuba NewConfirmed: 15 TotalConfirmed: 5898
- Date: 2020-10-08T05:29:04Z Country: Cyprus NewConfirmed: 21 TotalConfirmed: 1897
- Date: 2020-10-08T05:29:04Z Country: Czech Republic NewConfirmed: 5338 TotalConfirmed: 95360
- Date: 2020-10-08T05:29:04Z Country: Côte d'Ivoire NewConfirmed: 32 TotalConfirmed: 19935
- Date: 2020-10-08T05:29:04Z Country: Denmark NewConfirmed: 333 TotalConfirmed: 31201
- Date: 2020-10-08T05:29:04Z Country: Djibouti NewConfirmed: 0 TotalConfirmed: 5423
- Date: 2020-10-08T05:29:04Z Country: Dominica NewConfirmed: 0 TotalConfirmed: 31
- Date: 2020-10-08T05:29:04Z Country: Dominican Republic NewConfirmed: 777 TotalConfirmed: 116148
- Date: 2020-10-08T05:29:04Z Country: Ecuador NewConfirmed: 1475 TotalConfirmed: 143531
- Date: 2020-10-08T05:29:04Z Country: Egypt NewConfirmed: 133 TotalConfirmed: 104035
- Date: 2020-10-08T05:29:04Z Country: El Salvador NewConfirmed: 103 TotalConfirmed: 29737
- Date: 2020-10-08T05:29:04Z Country: Equatorial Guinea NewConfirmed: 0 TotalConfirmed: 5052
- Date: 2020-10-08T05:29:04Z Country: Eritrea NewConfirmed: 0 TotalConfirmed: 398
- Date: 2020-10-08T05:29:04Z Country: Estonia NewConfirmed: 56 TotalConfirmed: 3715
- Date: 2020-10-08T05:29:04Z Country: Ethiopia NewConfirmed: 892 TotalConfirmed: 80895
- Date: 2020-10-08T05:29:04Z Country: Fiji NewConfirmed: 0 TotalConfirmed: 32
- Date: 2020-10-08T05:29:04Z Country: Finland NewConfirmed: 120 TotalConfirmed: 11049
- Date: 2020-10-08T05:29:04Z Country: France NewConfirmed: 17867 TotalConfirmed: 693603
- Date: 2020-10-08T05:29:04Z Country: Gabon NewConfirmed: 7 TotalConfirmed: 8815
- Date: 2020-10-08T05:29:04Z Country: Gambia NewConfirmed: 0 TotalConfirmed: 3613
- Date: 2020-10-08T05:29:04Z Country: Georgia NewConfirmed: 508 TotalConfirmed: 9753
- Date: 2020-10-08T05:29:04Z Country: Germany NewConfirmed: 4010 TotalConfirmed: 311137
- Date: 2020-10-08T05:29:04Z Country: Ghana NewConfirmed: 0 TotalConfirmed: 46829
- Date: 2020-10-08T05:29:04Z Country: Greece NewConfirmed: 406 TotalConfirmed: 20947
- Date: 2020-10-08T05:29:04Z Country: Grenada NewConfirmed: 0 TotalConfirmed: 24
- Date: 2020-10-08T05:29:04Z Country: Guatemala NewConfirmed: 834 TotalConfirmed: 95704
- Date: 2020-10-08T05:29:04Z Country: Guinea NewConfirmed: 0 TotalConfirmed: 10863
- Date: 2020-10-08T05:29:04Z Country: Guinea-Bissau NewConfirmed: 0 TotalConfirmed: 2385
- Date: 2020-10-08T05:29:04Z Country: Guyana NewConfirmed: 104 TotalConfirmed: 3292
- Date: 2020-10-08T05:29:04Z Country: Haiti NewConfirmed: 0 TotalConfirmed: 8838
- Date: 2020-10-08T05:29:04Z Country: Holy See (Vatican City State) NewConfirmed: 0 TotalConfirmed: 12
- Date: 2020-10-08T05:29:04Z Country: Honduras NewConfirmed: 354 TotalConfirmed: 81016
- Date: 2020-10-08T05:29:04Z Country: Hungary NewConfirmed: 816 TotalConfirmed: 33114
- Date: 2020-10-08T05:29:04Z Country: Iceland NewConfirmed: 91 TotalConfirmed: 3172
- Date: 2020-10-08T05:29:04Z Country: India NewConfirmed: 0 TotalConfirmed: 6757131
- Date: 2020-10-08T05:29:04Z Country: Indonesia NewConfirmed: 4538 TotalConfirmed: 315714
- Date: 2020-10-08T05:29:04Z Country: Iran, Islamic Republic of NewConfirmed: 4019 TotalConfirmed: 483844
- Date: 2020-10-08T05:29:04Z Country: Iraq NewConfirmed: 3923 TotalConfirmed: 391044
- Date: 2020-10-08T05:29:04Z Country: Ireland NewConfirmed: 611 TotalConfirmed: 39584
- Date: 2020-10-08T05:29:04Z Country: Israel NewConfirmed: 4455 TotalConfirmed: 281481
- Date: 2020-10-08T05:29:04Z Country: Italy NewConfirmed: 3677 TotalConfirmed: 333940
- Date: 2020-10-08T05:29:04Z Country: Jamaica NewConfirmed: 82 TotalConfirmed: 7191
- Date: 2020-10-08T05:29:04Z Country: Japan NewConfirmed: 499 TotalConfirmed: 87039
- Date: 2020-10-08T05:29:04Z Country: Jordan NewConfirmed: 1199 TotalConfirmed: 20200
- Date: 2020-10-08T05:29:04Z Country: Kazakhstan NewConfirmed: 92 TotalConfirmed: 108454
- Date: 2020-10-08T05:29:04Z Country: Kenya NewConfirmed: 321 TotalConfirmed: 39907
- Date: 2020-10-08T05:29:04Z Country: Korea (South) NewConfirmed: 69 TotalConfirmed: 24422
- Date: 2020-10-08T05:29:04Z Country: Kuwait NewConfirmed: 475 TotalConfirmed: 108743
- Date: 2020-10-08T05:29:04Z Country: Kyrgyzstan NewConfirmed: 298 TotalConfirmed: 48097
- Date: 2020-10-08T05:29:04Z Country: Lao PDR NewConfirmed: 0 TotalConfirmed: 23
- Date: 2020-10-08T05:29:04Z Country: Latvia NewConfirmed: 67 TotalConfirmed: 2261
- Date: 2020-10-08T05:29:04Z Country: Lebanon NewConfirmed: 1459 TotalConfirmed: 48377
- Date: 2020-10-08T05:29:04Z Country: Lesotho NewConfirmed: 84 TotalConfirmed: 1767
- Date: 2020-10-08T05:29:04Z Country: Liberia NewConfirmed: 1 TotalConfirmed: 1355
- Date: 2020-10-08T05:29:04Z Country: Libya NewConfirmed: 1045 TotalConfirmed: 39513
- Date: 2020-10-08T05:29:04Z Country: Liechtenstein NewConfirmed: 1 TotalConfirmed: 131
- Date: 2020-10-08T05:29:04Z Country: Lithuania NewConfirmed: 117 TotalConfirmed: 5483
- Date: 2020-10-08T05:29:04Z Country: Luxembourg NewConfirmed: 140 TotalConfirmed: 9119
- Date: 2020-10-08T05:29:04Z Country: Macao, SAR China NewConfirmed: 0 TotalConfirmed: 0
- Date: 2020-10-08T05:29:04Z Country: Macedonia, Republic of NewConfirmed: 317 TotalConfirmed: 19413
- Date: 2020-10-08T05:29:04Z Country: Madagascar NewConfirmed: 33 TotalConfirmed: 16633
- Date: 2020-10-08T05:29:04Z Country: Malawi NewConfirmed: 7 TotalConfirmed: 5803
- Date: 2020-10-08T05:29:04Z Country: Malaysia NewConfirmed: 489 TotalConfirmed: 13993
- Date: 2020-10-08T05:29:04Z Country: Maldives NewConfirmed: 35 TotalConfirmed: 10656
- Date: 2020-10-08T05:29:04Z Country: Mali NewConfirmed: 15 TotalConfirmed: 3210
- Date: 2020-10-08T05:29:04Z Country: Malta NewConfirmed: 68 TotalConfirmed: 3442
- Date: 2020-10-08T05:29:04Z Country: Mauritania NewConfirmed: 6 TotalConfirmed: 7535
- Date: 2020-10-08T05:29:04Z Country: Mauritius NewConfirmed: 0 TotalConfirmed: 395
- Date: 2020-10-08T05:29:04Z Country: Mexico NewConfirmed: 4580 TotalConfirmed: 799188
- Date: 2020-10-08T05:29:04Z Country: Moldova NewConfirmed: 1062 TotalConfirmed: 58794
- Date: 2020-10-08T05:29:04Z Country: Monaco NewConfirmed: 3 TotalConfirmed: 227
- Date: 2020-10-08T05:29:04Z Country: Mongolia NewConfirmed: 0 TotalConfirmed: 315
- Date: 2020-10-08T05:29:04Z Country: Montenegro NewConfirmed: 210 TotalConfirmed: 12794
- Date: 2020-10-08T05:29:04Z Country: Morocco NewConfirmed: 2776 TotalConfirmed: 140024
- Date: 2020-10-08T05:29:04Z Country: Mozambique NewConfirmed: 96 TotalConfirmed: 9494
- Date: 2020-10-08T05:29:04Z Country: Myanmar NewConfirmed: 1400 TotalConfirmed: 21433
- Date: 2020-10-08T05:29:04Z Country: Namibia NewConfirmed: 41 TotalConfirmed: 11714
- Date: 2020-10-08T05:29:04Z Country: Nepal NewConfirmed: 3439 TotalConfirmed: 94253
- Date: 2020-10-08T05:29:04Z Country: Netherlands NewConfirmed: 4989 TotalConfirmed: 149988
- Date: 2020-10-08T05:29:04Z Country: New Zealand NewConfirmed: 3 TotalConfirmed: 1864
- Date: 2020-10-08T05:29:04Z Country: Nicaragua NewConfirmed: 0 TotalConfirmed: 5264
- Date: 2020-10-08T05:29:04Z Country: Niger NewConfirmed: 0 TotalConfirmed: 1200
- Date: 2020-10-08T05:29:04Z Country: Nigeria NewConfirmed: 155 TotalConfirmed: 59738
- Date: 2020-10-08T05:29:04Z Country: Norway NewConfirmed: 229 TotalConfirmed: 15013
- Date: 2020-10-08T05:29:04Z Country: Oman NewConfirmed: 817 TotalConfirmed: 103465
- Date: 2020-10-08T05:29:04Z Country: Pakistan NewConfirmed: 583 TotalConfirmed: 316934
- Date: 2020-10-08T05:29:04Z Country: Palestinian Territory NewConfirmed: 408 TotalConfirmed: 42840
- Date: 2020-10-08T05:29:04Z Country: Panama NewConfirmed: 698 TotalConfirmed: 117300
- Date: 2020-10-08T05:29:04Z Country: Papua New Guinea NewConfirmed: 0 TotalConfirmed: 541
- Date: 2020-10-08T05:29:04Z Country: Paraguay NewConfirmed: 788 TotalConfirmed: 46435
- Date: 2020-10-08T05:29:04Z Country: Peru NewConfirmed: 2930 TotalConfirmed: 832929
- Date: 2020-10-08T05:29:04Z Country: Philippines NewConfirmed: 2804 TotalConfirmed: 329637
- Date: 2020-10-08T05:29:04Z Country: Poland NewConfirmed: 3003 TotalConfirmed: 107319
- Date: 2020-10-08T05:29:04Z Country: Portugal NewConfirmed: 944 TotalConfirmed: 81256
- Date: 2020-10-08T05:29:04Z Country: Qatar NewConfirmed: 238 TotalConfirmed: 127181
- Date: 2020-10-08T05:29:04Z Country: Republic of Kosovo NewConfirmed: 3255 TotalConfirmed: 15938
- Date: 2020-10-08T05:29:04Z Country: Romania NewConfirmed: 2958 TotalConfirmed: 142570
- Date: 2020-10-08T05:29:04Z Country: Russian Federation NewConfirmed: 10981 TotalConfirmed: 1242258
- Date: 2020-10-08T05:29:04Z Country: Rwanda NewConfirmed: 10 TotalConfirmed: 4883
- Date: 2020-10-08T05:29:04Z Country: Réunion NewConfirmed: 0 TotalConfirmed: 0
- Date: 2020-10-08T05:29:04Z Country: Saint Kitts and Nevis NewConfirmed: 0 TotalConfirmed: 19
- Date: 2020-10-08T05:29:04Z Country: Saint Lucia NewConfirmed: 0 TotalConfirmed: 27
- Date: 2020-10-08T05:29:04Z Country: Saint Vincent and Grenadines NewConfirmed: 0 TotalConfirmed: 64
- Date: 2020-10-08T05:29:04Z Country: San Marino NewConfirmed: 0 TotalConfirmed: 732
- Date: 2020-10-08T05:29:04Z Country: Sao Tome and Principe NewConfirmed: 0 TotalConfirmed: 914
- Date: 2020-10-08T05:29:04Z Country: Saudi Arabia NewConfirmed: 468 TotalConfirmed: 337711
- Date: 2020-10-08T05:29:04Z Country: Senegal NewConfirmed: 33 TotalConfirmed: 15174
- Date: 2020-10-08T05:29:04Z Country: Serbia NewConfirmed: 121 TotalConfirmed: 34193
- Date: 2020-10-08T05:29:04Z Country: Seychelles NewConfirmed: 0 TotalConfirmed: 148
- Date: 2020-10-08T05:29:04Z Country: Sierra Leone NewConfirmed: 10 TotalConfirmed: 2287
- Date: 2020-10-08T05:29:04Z Country: Singapore NewConfirmed: 10 TotalConfirmed: 57840
- Date: 2020-10-08T05:29:04Z Country: Slovakia NewConfirmed: 877 TotalConfirmed: 14689
- Date: 2020-10-08T05:29:04Z Country: Slovenia NewConfirmed: 356 TotalConfirmed: 7120
- Date: 2020-10-08T05:29:04Z Country: Somalia NewConfirmed: 0 TotalConfirmed: 3745
- Date: 2020-10-08T05:29:04Z Country: South Africa NewConfirmed: 1913 TotalConfirmed: 685155
- Date: 2020-10-08T05:29:04Z Country: South Sudan NewConfirmed: 14 TotalConfirmed: 2748
- Date: 2020-10-08T05:29:04Z Country: Spain NewConfirmed: 10491 TotalConfirmed: 835901
- Date: 2020-10-08T05:29:04Z Country: Sri Lanka NewConfirmed: 207 TotalConfirmed: 4459
- Date: 2020-10-08T05:29:04Z Country: Sudan NewConfirmed: 15 TotalConfirmed: 13668
- Date: 2020-10-08T05:29:04Z Country: Suriname NewConfirmed: 14 TotalConfirmed: 4979
- Date: 2020-10-08T05:29:04Z Country: Swaziland NewConfirmed: 19 TotalConfirmed: 5617
- Date: 2020-10-08T05:29:04Z Country: Sweden NewConfirmed: 532 TotalConfirmed: 96677
- Date: 2020-10-08T05:29:04Z Country: Switzerland NewConfirmed: 1077 TotalConfirmed: 57709
- Date: 2020-10-08T05:29:04Z Country: Syrian Arab Republic (Syria) NewConfirmed: 47 TotalConfirmed: 4504
- Date: 2020-10-08T05:29:04Z Country: Taiwan, Republic of China NewConfirmed: 2 TotalConfirmed: 523
- Date: 2020-10-08T05:29:04Z Country: Tajikistan NewConfirmed: 41 TotalConfirmed: 10055
- Date: 2020-10-08T05:29:04Z Country: Tanzania, United Republic of NewConfirmed: 0 TotalConfirmed: 509
- Date: 2020-10-08T05:29:04Z Country: Thailand NewConfirmed: 7 TotalConfirmed: 3622
- Date: 2020-10-08T05:29:04Z Country: Timor-Leste NewConfirmed: 0 TotalConfirmed: 28
- Date: 2020-10-08T05:29:04Z Country: Togo NewConfirmed: 17 TotalConfirmed: 1898
- Date: 2020-10-08T05:29:04Z Country: Trinidad and Tobago NewConfirmed: 41 TotalConfirmed: 4887
- Date: 2020-10-08T05:29:04Z Country: Tunisia NewConfirmed: 2312 TotalConfirmed: 24542
- Date: 2020-10-08T05:29:04Z Country: Turkey NewConfirmed: 1581 TotalConfirmed: 329138
- Date: 2020-10-08T05:29:04Z Country: Uganda NewConfirmed: 178 TotalConfirmed: 9260
- Date: 2020-10-08T05:29:04Z Country: Ukraine NewConfirmed: 4887 TotalConfirmed: 245698
- Date: 2020-10-08T05:29:04Z Country: United Arab Emirates NewConfirmed: 1046 TotalConfirmed: 101840
- Date: 2020-10-08T05:29:04Z Country: United Kingdom NewConfirmed: 14173 TotalConfirmed: 546952
- Date: 2020-10-08T05:29:04Z Country: United States of America NewConfirmed: 50341 TotalConfirmed: 7549682
- Date: 2020-10-08T05:29:04Z Country: Uruguay NewConfirmed: 29 TotalConfirmed: 2206
- Date: 2020-10-08T05:29:04Z Country: Uzbekistan NewConfirmed: 236 TotalConfirmed: 59579
- Date: 2020-10-08T05:29:04Z Country: Venezuela (Bolivarian Republic) NewConfirmed: 608 TotalConfirmed: 80404
- Date: 2020-10-08T05:29:04Z Country: Viet Nam NewConfirmed: 1 TotalConfirmed: 1099
- Date: 2020-10-08T05:29:04Z Country: Western Sahara NewConfirmed: 0 TotalConfirmed: 10
- Date: 2020-10-08T05:29:04Z Country: Yemen NewConfirmed: 2 TotalConfirmed: 2049
- Date: 2020-10-08T05:29:04Z Country: Zambia NewConfirmed: 54 TotalConfirmed: 15224
- Date: 2020-10-08T05:29:04Z Country: Zimbabwe NewConfirmed: 4 TotalConfirmed: 7919
+ Date: 2020-10-14T23:46:17Z Country: Afghanistan NewConfirmed: 58 TotalConfirmed: 39928
+ Date: 2020-10-14T23:46:17Z Country: Albania NewConfirmed: 182 TotalConfirmed: 15752
+ Date: 2020-10-14T23:46:17Z Country: Algeria NewConfirmed: 74 TotalConfirmed: 53399
+ Date: 2020-10-14T23:46:17Z Country: Andorra NewConfirmed: 0 TotalConfirmed: 2995
+ Date: 2020-10-14T23:46:17Z Country: Angola NewConfirmed: 192 TotalConfirmed: 6680
+ Date: 2020-10-14T23:46:17Z Country: Antigua and Barbuda NewConfirmed: 0 TotalConfirmed: 111
+ Date: 2020-10-14T23:46:17Z Country: Argentina NewConfirmed: 13305 TotalConfirmed: 917035
+ Date: 2020-10-14T23:46:17Z Country: Armenia NewConfirmed: 745 TotalConfirmed: 57566
+ Date: 2020-10-14T23:46:17Z Country: Australia NewConfirmed: 27 TotalConfirmed: 27337
+ Date: 2020-10-14T23:46:17Z Country: Austria NewConfirmed: 1028 TotalConfirmed: 57326
+ Date: 2020-10-14T23:46:17Z Country: Azerbaijan NewConfirmed: 277 TotalConfirmed: 42381
+ Date: 2020-10-14T23:46:17Z Country: Bahamas NewConfirmed: 0 TotalConfirmed: 5163
+ Date: 2020-10-14T23:46:17Z Country: Bahrain NewConfirmed: 324 TotalConfirmed: 76272
+ Date: 2020-10-14T23:46:17Z Country: Bangladesh NewConfirmed: 1537 TotalConfirmed: 381275
+ Date: 2020-10-14T23:46:17Z Country: Barbados NewConfirmed: 2 TotalConfirmed: 210
+ Date: 2020-10-14T23:46:17Z Country: Belarus NewConfirmed: 526 TotalConfirmed: 84524
+ Date: 2020-10-14T23:46:17Z Country: Belgium NewConfirmed: 7360 TotalConfirmed: 173240
+ Date: 2020-10-14T23:46:17Z Country: Belize NewConfirmed: 16 TotalConfirmed: 2585
+ Date: 2020-10-14T23:46:17Z Country: Benin NewConfirmed: 0 TotalConfirmed: 2411
+ Date: 2020-10-14T23:46:17Z Country: Bhutan NewConfirmed: 4 TotalConfirmed: 313
+ Date: 2020-10-14T23:46:17Z Country: Bolivia NewConfirmed: 227 TotalConfirmed: 138922
+ Date: 2020-10-14T23:46:17Z Country: Bosnia and Herzegovina NewConfirmed: 336 TotalConfirmed: 31173
+ Date: 2020-10-14T23:46:17Z Country: Botswana NewConfirmed: 0 TotalConfirmed: 3515
+ Date: 2020-10-14T23:46:17Z Country: Brazil NewConfirmed: 10220 TotalConfirmed: 5113628
+ Date: 2020-10-14T23:46:17Z Country: Brunei Darussalam NewConfirmed: 0 TotalConfirmed: 146
+ Date: 2020-10-14T23:46:17Z Country: Bulgaria NewConfirmed: 785 TotalConfirmed: 25774
+ Date: 2020-10-14T23:46:17Z Country: Burkina Faso NewConfirmed: 11 TotalConfirmed: 2305
+ Date: 2020-10-14T23:46:17Z Country: Burundi NewConfirmed: 4 TotalConfirmed: 529
+ Date: 2020-10-14T23:46:17Z Country: Cambodia NewConfirmed: 0 TotalConfirmed: 283
+ Date: 2020-10-14T23:46:17Z Country: Cameroon NewConfirmed: 0 TotalConfirmed: 21203
+ Date: 2020-10-14T23:46:17Z Country: Canada NewConfirmed: 4111 TotalConfirmed: 189476
+ Date: 2020-10-14T23:46:17Z Country: Cape Verde NewConfirmed: 99 TotalConfirmed: 7254
+ Date: 2020-10-14T23:46:17Z Country: Central African Republic NewConfirmed: 0 TotalConfirmed: 4854
+ Date: 2020-10-14T23:46:17Z Country: Chad NewConfirmed: 13 TotalConfirmed: 1321
+ Date: 2020-10-14T23:46:17Z Country: Chile NewConfirmed: 1448 TotalConfirmed: 484280
+ Date: 2020-10-14T23:46:17Z Country: China NewConfirmed: 28 TotalConfirmed: 90858
+ Date: 2020-10-14T23:46:17Z Country: Colombia NewConfirmed: 5014 TotalConfirmed: 924098
+ Date: 2020-10-14T23:46:17Z Country: Comoros NewConfirmed: 1 TotalConfirmed: 496
+ Date: 2020-10-14T23:46:17Z Country: Congo (Brazzaville) NewConfirmed: 0 TotalConfirmed: 5118
+ Date: 2020-10-14T23:46:17Z Country: Congo (Kinshasa) NewConfirmed: 4 TotalConfirmed: 10872
+ Date: 2020-10-14T23:46:17Z Country: Costa Rica NewConfirmed: 1015 TotalConfirmed: 90238
+ Date: 2020-10-14T23:46:17Z Country: Croatia NewConfirmed: 372 TotalConfirmed: 20993
+ Date: 2020-10-14T23:46:17Z Country: Cuba NewConfirmed: 17 TotalConfirmed: 6017
+ Date: 2020-10-14T23:46:17Z Country: Cyprus NewConfirmed: 83 TotalConfirmed: 2130
+ Date: 2020-10-14T23:46:17Z Country: Czech Republic NewConfirmed: 8326 TotalConfirmed: 129747
+ Date: 2020-10-14T23:46:17Z Country: Côte d'Ivoire NewConfirmed: 28 TotalConfirmed: 20183
+ Date: 2020-10-14T23:46:17Z Country: Denmark NewConfirmed: 290 TotalConfirmed: 33594
+ Date: 2020-10-14T23:46:17Z Country: Djibouti NewConfirmed: 2 TotalConfirmed: 5428
+ Date: 2020-10-14T23:46:17Z Country: Dominica NewConfirmed: 0 TotalConfirmed: 32
+ Date: 2020-10-14T23:46:17Z Country: Dominican Republic NewConfirmed: 165 TotalConfirmed: 119008
+ Date: 2020-10-14T23:46:17Z Country: Ecuador NewConfirmed: 856 TotalConfirmed: 148171
+ Date: 2020-10-14T23:46:17Z Country: Egypt NewConfirmed: 139 TotalConfirmed: 104787
+ Date: 2020-10-14T23:46:17Z Country: El Salvador NewConfirmed: 284 TotalConfirmed: 30480
+ Date: 2020-10-14T23:46:17Z Country: Equatorial Guinea NewConfirmed: 0 TotalConfirmed: 5066
+ Date: 2020-10-14T23:46:17Z Country: Eritrea NewConfirmed: 0 TotalConfirmed: 414
+ Date: 2020-10-14T23:46:17Z Country: Estonia NewConfirmed: 25 TotalConfirmed: 3908
+ Date: 2020-10-14T23:46:17Z Country: Ethiopia NewConfirmed: 582 TotalConfirmed: 85718
+ Date: 2020-10-14T23:46:17Z Country: Fiji NewConfirmed: 0 TotalConfirmed: 32
+ Date: 2020-10-14T23:46:17Z Country: Finland NewConfirmed: 287 TotalConfirmed: 12499
+ Date: 2020-10-14T23:46:17Z Country: France NewConfirmed: 22160 TotalConfirmed: 798257
+ Date: 2020-10-14T23:46:17Z Country: Gabon NewConfirmed: 0 TotalConfirmed: 8860
+ Date: 2020-10-14T23:46:17Z Country: Gambia NewConfirmed: 0 TotalConfirmed: 3636
+ Date: 2020-10-14T23:46:17Z Country: Georgia NewConfirmed: 569 TotalConfirmed: 12841
+ Date: 2020-10-14T23:46:17Z Country: Germany NewConfirmed: 4464 TotalConfirmed: 337314
+ Date: 2020-10-14T23:46:17Z Country: Ghana NewConfirmed: 96 TotalConfirmed: 47126
+ Date: 2020-10-14T23:46:17Z Country: Greece NewConfirmed: 408 TotalConfirmed: 23060
+ Date: 2020-10-14T23:46:17Z Country: Grenada NewConfirmed: 0 TotalConfirmed: 25
+ Date: 2020-10-14T23:46:17Z Country: Guatemala NewConfirmed: 554 TotalConfirmed: 98380
+ Date: 2020-10-14T23:46:17Z Country: Guinea NewConfirmed: 72 TotalConfirmed: 11134
+ Date: 2020-10-14T23:46:17Z Country: Guinea-Bissau NewConfirmed: 0 TotalConfirmed: 2389
+ Date: 2020-10-14T23:46:17Z Country: Guyana NewConfirmed: 44 TotalConfirmed: 3565
+ Date: 2020-10-14T23:46:17Z Country: Haiti NewConfirmed: 5 TotalConfirmed: 8887
+ Date: 2020-10-14T23:46:17Z Country: Holy See (Vatican City State) NewConfirmed: 0 TotalConfirmed: 19
+ Date: 2020-10-14T23:46:17Z Country: Honduras NewConfirmed: 439 TotalConfirmed: 84852
+ Date: 2020-10-14T23:46:17Z Country: Hungary NewConfirmed: 1025 TotalConfirmed: 39862
+ Date: 2020-10-14T23:46:17Z Country: Iceland NewConfirmed: 86 TotalConfirmed: 3668
+ Date: 2020-10-14T23:46:17Z Country: India NewConfirmed: 63509 TotalConfirmed: 7239389
+ Date: 2020-10-14T23:46:17Z Country: Indonesia NewConfirmed: 3906 TotalConfirmed: 340622
+ Date: 2020-10-14T23:46:17Z Country: Iran, Islamic Republic of NewConfirmed: 4108 TotalConfirmed: 508389
+ Date: 2020-10-14T23:46:17Z Country: Iraq NewConfirmed: 3921 TotalConfirmed: 409358
+ Date: 2020-10-14T23:46:17Z Country: Ireland NewConfirmed: 808 TotalConfirmed: 44159
+ Date: 2020-10-14T23:46:17Z Country: Israel NewConfirmed: 2621 TotalConfirmed: 296652
+ Date: 2020-10-14T23:46:17Z Country: Italy NewConfirmed: 5898 TotalConfirmed: 365467
+ Date: 2020-10-14T23:46:17Z Country: Jamaica NewConfirmed: 97 TotalConfirmed: 7910
+ Date: 2020-10-14T23:46:17Z Country: Japan NewConfirmed: 501 TotalConfirmed: 90153
+ Date: 2020-10-14T23:46:17Z Country: Jordan NewConfirmed: 2054 TotalConfirmed: 28127
+ Date: 2020-10-14T23:46:17Z Country: Kazakhstan NewConfirmed: 83 TotalConfirmed: 108984
+ Date: 2020-10-14T23:46:17Z Country: Kenya NewConfirmed: 318 TotalConfirmed: 41937
+ Date: 2020-10-14T23:46:17Z Country: Korea (South) NewConfirmed: 84 TotalConfirmed: 24889
+ Date: 2020-10-14T23:46:17Z Country: Kuwait NewConfirmed: 844 TotalConfirmed: 112737
+ Date: 2020-10-14T23:46:17Z Country: Kyrgyzstan NewConfirmed: 343 TotalConfirmed: 49871
+ Date: 2020-10-14T23:46:17Z Country: Lao PDR NewConfirmed: 0 TotalConfirmed: 23
+ Date: 2020-10-14T23:46:17Z Country: Latvia NewConfirmed: 75 TotalConfirmed: 2840
+ Date: 2020-10-14T23:46:17Z Country: Lebanon NewConfirmed: 1245 TotalConfirmed: 55869
+ Date: 2020-10-14T23:46:17Z Country: Lesotho NewConfirmed: 17 TotalConfirmed: 1822
+ Date: 2020-10-14T23:46:17Z Country: Liberia NewConfirmed: 0 TotalConfirmed: 1371
+ Date: 2020-10-14T23:46:17Z Country: Libya NewConfirmed: 1164 TotalConfirmed: 44985
+ Date: 2020-10-14T23:46:17Z Country: Liechtenstein NewConfirmed: 15 TotalConfirmed: 163
+ Date: 2020-10-14T23:46:17Z Country: Lithuania NewConfirmed: 118 TotalConfirmed: 6366
+ Date: 2020-10-14T23:46:17Z Country: Luxembourg NewConfirmed: 0 TotalConfirmed: 9119
+ Date: 2020-10-14T23:46:17Z Country: Macao, SAR China NewConfirmed: 0 TotalConfirmed: 0
+ Date: 2020-10-14T23:46:17Z Country: Macedonia, Republic of NewConfirmed: 80 TotalConfirmed: 21193
+ Date: 2020-10-14T23:46:17Z Country: Madagascar NewConfirmed: 28 TotalConfirmed: 16754
+ Date: 2020-10-14T23:46:17Z Country: Malawi NewConfirmed: 3 TotalConfirmed: 5827
+ Date: 2020-10-14T23:46:17Z Country: Malaysia NewConfirmed: 660 TotalConfirmed: 16880
+ Date: 2020-10-14T23:46:17Z Country: Maldives NewConfirmed: 50 TotalConfirmed: 10993
+ Date: 2020-10-14T23:46:17Z Country: Mali NewConfirmed: 1 TotalConfirmed: 3297
+ Date: 2020-10-14T23:46:17Z Country: Malta NewConfirmed: 93 TotalConfirmed: 3937
+ Date: 2020-10-14T23:46:17Z Country: Mauritania NewConfirmed: 11 TotalConfirmed: 7565
+ Date: 2020-10-14T23:46:17Z Country: Mauritius NewConfirmed: 3 TotalConfirmed: 407
+ Date: 2020-10-14T23:46:17Z Country: Mexico NewConfirmed: 4295 TotalConfirmed: 825340
+ Date: 2020-10-14T23:46:17Z Country: Moldova NewConfirmed: 657 TotalConfirmed: 63275
+ Date: 2020-10-14T23:46:17Z Country: Monaco NewConfirmed: 5 TotalConfirmed: 241
+ Date: 2020-10-14T23:46:17Z Country: Mongolia NewConfirmed: 0 TotalConfirmed: 320
+ Date: 2020-10-14T23:46:17Z Country: Montenegro NewConfirmed: 218 TotalConfirmed: 14268
+ Date: 2020-10-14T23:46:17Z Country: Morocco NewConfirmed: 3185 TotalConfirmed: 156946
+ Date: 2020-10-14T23:46:17Z Country: Mozambique NewConfirmed: 170 TotalConfirmed: 10258
+ Date: 2020-10-14T23:46:17Z Country: Myanmar NewConfirmed: 1123 TotalConfirmed: 30437
+ Date: 2020-10-14T23:46:17Z Country: Namibia NewConfirmed: 11 TotalConfirmed: 12000
+ Date: 2020-10-14T23:46:17Z Country: Nepal NewConfirmed: 3556 TotalConfirmed: 115358
+ Date: 2020-10-14T23:46:17Z Country: Netherlands NewConfirmed: 7378 TotalConfirmed: 188876
+ Date: 2020-10-14T23:46:17Z Country: New Zealand NewConfirmed: 2 TotalConfirmed: 1874
+ Date: 2020-10-14T23:46:17Z Country: Nicaragua NewConfirmed: 89 TotalConfirmed: 5353
+ Date: 2020-10-14T23:46:17Z Country: Niger NewConfirmed: 1 TotalConfirmed: 1203
+ Date: 2020-10-14T23:46:17Z Country: Nigeria NewConfirmed: 225 TotalConfirmed: 60655
+ Date: 2020-10-14T23:46:17Z Country: Norway NewConfirmed: 154 TotalConfirmed: 15793
+ Date: 2020-10-14T23:46:17Z Country: Oman NewConfirmed: 638 TotalConfirmed: 107213
+ Date: 2020-10-14T23:46:17Z Country: Pakistan NewConfirmed: 615 TotalConfirmed: 320463
+ Date: 2020-10-14T23:46:17Z Country: Palestinian Territory NewConfirmed: 516 TotalConfirmed: 45200
+ Date: 2020-10-14T23:46:17Z Country: Panama NewConfirmed: 494 TotalConfirmed: 121296
+ Date: 2020-10-14T23:46:17Z Country: Papua New Guinea NewConfirmed: 0 TotalConfirmed: 565
+ Date: 2020-10-14T23:46:17Z Country: Paraguay NewConfirmed: 853 TotalConfirmed: 51197
+ Date: 2020-10-14T23:46:17Z Country: Peru NewConfirmed: 2803 TotalConfirmed: 853974
+ Date: 2020-10-14T23:46:17Z Country: Philippines NewConfirmed: 1897 TotalConfirmed: 344713
+ Date: 2020-10-14T23:46:17Z Country: Poland NewConfirmed: 5068 TotalConfirmed: 135278
+ Date: 2020-10-14T23:46:17Z Country: Portugal NewConfirmed: 1208 TotalConfirmed: 89121
+ Date: 2020-10-14T23:46:17Z Country: Qatar NewConfirmed: 214 TotalConfirmed: 128405
+ Date: 2020-10-14T23:46:17Z Country: Republic of Kosovo NewConfirmed: 98 TotalConfirmed: 16345
+ Date: 2020-10-14T23:46:17Z Country: Romania NewConfirmed: 3109 TotalConfirmed: 160461
+ Date: 2020-10-14T23:46:17Z Country: Russian Federation NewConfirmed: 13690 TotalConfirmed: 1318783
+ Date: 2020-10-14T23:46:17Z Country: Rwanda NewConfirmed: 3 TotalConfirmed: 4908
+ Date: 2020-10-14T23:46:17Z Country: Réunion NewConfirmed: 0 TotalConfirmed: 0
+ Date: 2020-10-14T23:46:17Z Country: Saint Kitts and Nevis NewConfirmed: 0 TotalConfirmed: 19
+ Date: 2020-10-14T23:46:17Z Country: Saint Lucia NewConfirmed: 0 TotalConfirmed: 29
+ Date: 2020-10-14T23:46:17Z Country: Saint Vincent and Grenadines NewConfirmed: 0 TotalConfirmed: 64
+ Date: 2020-10-14T23:46:17Z Country: San Marino NewConfirmed: 0 TotalConfirmed: 741
+ Date: 2020-10-14T23:46:17Z Country: Sao Tome and Principe NewConfirmed: 0 TotalConfirmed: 929
+ Date: 2020-10-14T23:46:17Z Country: Saudi Arabia NewConfirmed: 474 TotalConfirmed: 340089
+ Date: 2020-10-14T23:46:17Z Country: Senegal NewConfirmed: 15 TotalConfirmed: 15307
+ Date: 2020-10-14T23:46:17Z Country: Serbia NewConfirmed: 152 TotalConfirmed: 35006
+ Date: 2020-10-14T23:46:17Z Country: Seychelles NewConfirmed: 0 TotalConfirmed: 148
+ Date: 2020-10-14T23:46:17Z Country: Sierra Leone NewConfirmed: 3 TotalConfirmed: 2309
+ Date: 2020-10-14T23:46:17Z Country: Singapore NewConfirmed: 4 TotalConfirmed: 57884
+ Date: 2020-10-14T23:46:17Z Country: Slovakia NewConfirmed: 531 TotalConfirmed: 20886
+ Date: 2020-10-14T23:46:17Z Country: Slovenia NewConfirmed: 399 TotalConfirmed: 9231
+ Date: 2020-10-14T23:46:17Z Country: Solomon Islands NewConfirmed: 0 TotalConfirmed: 2
+ Date: 2020-10-14T23:46:17Z Country: Somalia NewConfirmed: 0 TotalConfirmed: 3864
+ Date: 2020-10-14T23:46:17Z Country: South Africa NewConfirmed: 1178 TotalConfirmed: 694537
+ Date: 2020-10-14T23:46:17Z Country: South Sudan NewConfirmed: 11 TotalConfirmed: 2798
+ Date: 2020-10-14T23:46:17Z Country: Spain NewConfirmed: 7118 TotalConfirmed: 896086
+ Date: 2020-10-14T23:46:17Z Country: Sri Lanka NewConfirmed: 194 TotalConfirmed: 5038
+ Date: 2020-10-14T23:46:17Z Country: Sudan NewConfirmed: 0 TotalConfirmed: 13691
+ Date: 2020-10-14T23:46:17Z Country: Suriname NewConfirmed: 14 TotalConfirmed: 5072
+ Date: 2020-10-14T23:46:17Z Country: Swaziland NewConfirmed: 13 TotalConfirmed: 5696
+ Date: 2020-10-14T23:46:17Z Country: Sweden NewConfirmed: 2203 TotalConfirmed: 100654
+ Date: 2020-10-14T23:46:17Z Country: Switzerland NewConfirmed: 1445 TotalConfirmed: 65881
+ Date: 2020-10-14T23:46:17Z Country: Syrian Arab Republic (Syria) NewConfirmed: 52 TotalConfirmed: 4826
+ Date: 2020-10-14T23:46:17Z Country: Taiwan, Republic of China NewConfirmed: 1 TotalConfirmed: 530
+ Date: 2020-10-14T23:46:17Z Country: Tajikistan NewConfirmed: 37 TotalConfirmed: 10297
+ Date: 2020-10-14T23:46:17Z Country: Tanzania, United Republic of NewConfirmed: 0 TotalConfirmed: 509
+ Date: 2020-10-14T23:46:17Z Country: Thailand NewConfirmed: 9 TotalConfirmed: 3652
+ Date: 2020-10-14T23:46:17Z Country: Timor-Leste NewConfirmed: 0 TotalConfirmed: 29
+ Date: 2020-10-14T23:46:17Z Country: Togo NewConfirmed: 23 TotalConfirmed: 1972
+ Date: 2020-10-14T23:46:17Z Country: Trinidad and Tobago NewConfirmed: 11 TotalConfirmed: 5127
+ Date: 2020-10-14T23:46:17Z Country: Tunisia NewConfirmed: 0 TotalConfirmed: 32556
+ Date: 2020-10-14T23:46:17Z Country: Turkey NewConfirmed: 1632 TotalConfirmed: 338779
+ Date: 2020-10-14T23:46:17Z Country: Uganda NewConfirmed: 81 TotalConfirmed: 9945
+ Date: 2020-10-14T23:46:17Z Country: Ukraine NewConfirmed: 5311 TotalConfirmed: 277982
+ Date: 2020-10-14T23:46:17Z Country: United Arab Emirates NewConfirmed: 1315 TotalConfirmed: 108608
+ Date: 2020-10-14T23:46:17Z Country: United Kingdom NewConfirmed: 17250 TotalConfirmed: 637708
+ Date: 2020-10-14T23:46:17Z Country: United States of America NewConfirmed: 52406 TotalConfirmed: 7856605
+ Date: 2020-10-14T23:46:17Z Country: Uruguay NewConfirmed: 24 TotalConfirmed: 2337
+ Date: 2020-10-14T23:46:17Z Country: Uzbekistan NewConfirmed: 323 TotalConfirmed: 61642
+ Date: 2020-10-14T23:46:17Z Country: Venezuela (Bolivarian Republic) NewConfirmed: 635 TotalConfirmed: 84391
+ Date: 2020-10-14T23:46:17Z Country: Viet Nam NewConfirmed: 3 TotalConfirmed: 1113
+ Date: 2020-10-14T23:46:17Z Country: Western Sahara NewConfirmed: 0 TotalConfirmed: 10
+ Date: 2020-10-14T23:46:17Z Country: Yemen NewConfirmed: 1 TotalConfirmed: 2053
+ Date: 2020-10-14T23:46:17Z Country: Zambia NewConfirmed: 38 TotalConfirmed: 15587
+ Date: 2020-10-14T23:46:17Z Country: Zimbabwe NewConfirmed: 15 TotalConfirmed: 8036
