@@ -1,13 +1,13 @@
-package countriesfx.models;
+package countriesfx.apireadata;
 
 import java.io.*;
 import java.util.Scanner;
 
 public class NioReadFile {
 
+    Exception exception = new Exception();
 
     public String ReadFile() {
-       FilterCountries NIOtoFC = new FilterCountries();
        String data = "";
        try {
            File path = new File("src" + File.separator + "main" + File.separator + "resources" + File.separator + "covid.txt");
@@ -18,11 +18,8 @@ public class NioReadFile {
            }
            myReader.close();
        } catch (FileNotFoundException e) {
-           System.out.println("An error occurred.");
-           e.printStackTrace();
+           exception.fileexception(e);
        }
-
-
        return data;
    }
 

@@ -8,44 +8,32 @@ public class Countries {
     private String Country;
     private int NewConfirmed;
     private int TotalConfirmed;
+    private int NewDeaths;
 
-    public Countries(String currentDate, String country, int newConfirmed, int totalConfirmed) {
+    public Countries(String currentDate, String country, int newConfirmed, int totalConfirmed, int newDeaths) {
         CurrentDate = currentDate;
         Country = country;
         NewConfirmed = newConfirmed;
         TotalConfirmed = totalConfirmed;
+        NewDeaths = newDeaths;
     }
+
+    public int getNewDeaths() { return NewDeaths; }
 
     public String getCurrentDate() {
         return CurrentDate;
-    }
-
-    public void setCurrentDate(String currentDate) {
-        CurrentDate = currentDate;
     }
 
     public String getCountry() {
         return Country;
     }
 
-    public void setCountry(String country) {
-        Country = country;
-    }
-
     public int getNewConfirmed() {
         return NewConfirmed;
     }
-
-    public void setNewConfirmed(int newConfirmed) {
-        NewConfirmed = newConfirmed;
-    }
-
+    
     public int getTotalConfirmed() {
         return TotalConfirmed;
-    }
-
-    public void setTotalConfirmed(int totalConfirmed) {
-        TotalConfirmed = totalConfirmed;
     }
 
     @Override
@@ -53,15 +41,16 @@ public class Countries {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Countries countries = (Countries) o;
-        return CurrentDate.equals(countries.CurrentDate) &&
+        return  CurrentDate.equals(countries.CurrentDate) &&
                 NewConfirmed == countries.NewConfirmed &&
                 TotalConfirmed == countries.TotalConfirmed &&
+                NewDeaths == countries.NewDeaths &&
                 Objects.equals(Country, countries.Country);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(CurrentDate, Country, NewConfirmed, TotalConfirmed);
+        return Objects.hash(CurrentDate, Country, NewConfirmed, TotalConfirmed, NewDeaths);
     }
 
 
@@ -69,10 +58,11 @@ public class Countries {
     public String toString() {
         return "\nCountries{" +
                 "CurrentDate=" + CurrentDate +
-                ", County='" + Country + '\'' +
+                ", County=" + Country +
                 ", NewConfirmed=" + NewConfirmed +
                 ", TotalConfirmed=" + TotalConfirmed +
+                ", NewDeaths=" + NewDeaths +
                 "}";
-
     }
+
 }

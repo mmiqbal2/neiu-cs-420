@@ -1,4 +1,7 @@
-package countriesfx.models;
+package countriesfx.apireadata;
+
+import countriesfx.models.Countries;
+import countriesfx.models.InfectionCategory;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -18,7 +21,6 @@ public class CountriesMapping {
         cMap.put(InfectionCategory.LOW,low);
         cMap.put(InfectionCategory.MEDIUM,medium);
         cMap.put(InfectionCategory.HIGH,high);
-
         return cMap;
     }
 
