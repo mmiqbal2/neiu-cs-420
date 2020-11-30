@@ -39,8 +39,8 @@ public class Radiobdata {
         xAxis.setLabel("Top Countries");
         yAxis.setLabel("Total Cases By Persons");
 
-        XYChart.Series series1 = new XYChart.Series();
-        XYChart.Series series2 = new XYChart.Series();
+        XYChart.Series<String, Number> series1 = new XYChart.Series<>();
+        XYChart.Series<String, Number> series2 = new XYChart.Series<>();
         int count=0;
         series1.setName("Total Confirmed: "+ totalTc);
         series2.setName("New Confirmed: "+ totalNc);
@@ -48,8 +48,8 @@ public class Radiobdata {
             if(count==20) {
                 break;
             }
-            series2.getData().add(new XYChart.Data(entry.getKey(), filteredConfirmList.get(entry.getKey())));
-            series1.getData().add(new XYChart.Data(entry.getKey(), entry.getValue()));
+            series2.getData().add(new XYChart.Data<>(entry.getKey(), filteredConfirmList.get(entry.getKey())));
+            series1.getData().add(new XYChart.Data<>(entry.getKey(), entry.getValue()));
             count++;
         }
         Scene scene2  = new Scene(bc,800,600);
@@ -66,8 +66,7 @@ public class Radiobdata {
         bc.setTitle("Deaths caused by COVID-19 Cases - Top 20");
         xAxis.setLabel("Countries");
         yAxis.setLabel("Deaths By Persons");
-
-        XYChart.Series series1 = new XYChart.Series();
+        XYChart.Series<String, Number> series1 = new XYChart.Series<>();
         series1.setName("Total Deaths: " + totalNd );
         int count=0;
         for (Map.Entry<String,Integer> entry: filteredDeathList.entrySet()) {
@@ -75,7 +74,7 @@ public class Radiobdata {
                 break;
             }
             else {
-                series1.getData().add(new XYChart.Data(entry.getKey(), entry.getValue()));
+                series1.getData().add(new XYChart.Data<>(entry.getKey(), entry.getValue()));
                 count++;
             }
         }
@@ -84,4 +83,6 @@ public class Radiobdata {
         stage.setScene(scene2);
     }
 
+    public Radiobdata() {
+    }
 }
