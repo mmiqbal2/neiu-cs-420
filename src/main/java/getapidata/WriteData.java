@@ -1,5 +1,7 @@
 package getapidata;
 
+import countriesfx.apireadata.Exception;
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -7,10 +9,10 @@ import java.io.IOException;
 public class WriteData {
 
     File f = new File("src/main/resources/covid.txt");
-
+    Exception exception = new Exception();
     public void WriteData(String result) {
         try {
-            FileWriter myWriter = new FileWriter(f,true);
+            FileWriter myWriter = new FileWriter(f,false);
             if (f.createNewFile()) {
                 System.out.println("File created: " + f.getName());
                 myWriter.write(result);
@@ -20,8 +22,7 @@ public class WriteData {
             myWriter.close();
 
         } catch (IOException e) {
-            System.out.println("An error occurred.");
-            e.printStackTrace();
+            exception.Ioexception(e);
         }
     }
 }
