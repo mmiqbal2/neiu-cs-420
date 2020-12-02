@@ -17,8 +17,8 @@ import static countriesfx.apireadata.FilterCountries.filteredConfirmList;
 public class Radiobdata {
 
     void Piechartdata(Scene scene1, Stage stage) {
-        stage.setWidth(700);
-        stage.setHeight(500);
+        stage.setWidth(800);
+        stage.setHeight(600);
         ObservableList<PieChart.Data> pieChartData =
                 FXCollections.observableArrayList(
                         new PieChart.Data("NewConfirmed: "+ totalNc , FilterCountries.totalNc),
