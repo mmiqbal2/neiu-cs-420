@@ -2,6 +2,7 @@ package countriesfx.views;
 
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
+import javafx.geometry.Pos;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
@@ -40,14 +41,18 @@ public class Radiobuttons {
         Radiob2.setToggleGroup(toggleGroup);
         Radiob3.setToggleGroup(toggleGroup);
         toggleGroup.selectedToggleProperty().addListener(new CovidRadioListener());
-        vBox.getChildren().addAll(Radiob1, Radiob2, Radiob3);
+        Label labelBox = new Label("Charts");
+        labelBox.setStyle("-fx-font: 16px 'Tahoma';");
+        VBox labelVbox = new VBox();
+        labelVbox.setAlignment(Pos.CENTER);
+        labelVbox.getChildren().add(labelBox);
+
+        vBox.getChildren().addAll(labelVbox, Radiob1, Radiob2, Radiob3);
     }
 
     public VBox getvBox() {
         return vBox;
     }
-
-
 
     private class CovidRadioListener implements ChangeListener<Toggle> {
 
