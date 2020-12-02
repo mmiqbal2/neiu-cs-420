@@ -12,6 +12,7 @@ import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.ComboBox;
+import javafx.scene.control.Label;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
@@ -23,6 +24,7 @@ public class CovidApp extends Application {
     private ComboBoxDisplay comboBoxDisplay;
     private Radiobuttons rb;
     private Stage stage;
+    Label label = new Label();
 
     public static void main(String[] args) throws IOException {
 
@@ -63,6 +65,8 @@ public class CovidApp extends Application {
 
     private void setUpBorderPane(BorderPane borderPane){
         HBox hBox = new HBox();
+        label = new Label("Welcome to my TrackCovid App");
+        label.setStyle("-fx-font: 14px 'Tahoma';");
         setUpHBox(hBox);
         borderPane.setTop(hBox);
         Button btn = new Button("Click Here To See Charts");
@@ -84,14 +88,14 @@ public class CovidApp extends Application {
         hBox.setSpacing(10);
         ComboBox<InfectionCategory> categories = comboBoxDisplay.getCategories();
         ComboBox<Countries> countryList = comboBoxDisplay.getCountries();
-        hBox.getChildren().addAll(categories,countryList, comboBoxDisplay.getListView());
+        hBox.getChildren().addAll(label, categories,countryList, comboBoxDisplay.getListView());
         HBox.setMargin(categories, new Insets(20, 5, 5,10));
         HBox.setMargin(countryList, new Insets(20, 5, 5,5));
     }
 
     private void setUpBorderPane1(BorderPane borderPane1){
         VBox vBox = rb.getvBox();
-        borderPane1.setTop(vBox);
+        borderPane1.setCenter(vBox);
     }
 
 }

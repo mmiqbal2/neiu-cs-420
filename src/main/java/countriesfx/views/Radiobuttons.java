@@ -11,9 +11,7 @@ import static countriesfx.apireadata.FilterCountries.*;
 
 public class Radiobuttons {
 
-    private RadioButton Radiob1;
-    private RadioButton Radiob2;
-    private RadioButton Radiob3;
+    private RadioButton Radiob1, Radiob2, Radiob3;
     Radiobdata rb = new Radiobdata();
     private final ToggleGroup toggleGroup;
     private VBox vBox;
