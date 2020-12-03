@@ -4,7 +4,6 @@ import countriesfx.models.InfectionCategory;
 import static countriesfx.apireadata.FilterCountries.*;
 import static javafx.collections.FXCollections.observableArrayList;
 import javafx.collections.ObservableList;
-import javafx.geometry.Insets;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.ListCell;
 import javafx.scene.control.ListView;
@@ -29,7 +28,6 @@ public class ComboBoxDisplay {
     }
 
     private static class countriesStringConverter extends StringConverter<Countries> {
-        private final String SEP = ", Country: ";
 
         @Override
         public String toString(Countries c) {
@@ -42,6 +40,7 @@ public class ComboBoxDisplay {
 
         @Override
         public Countries fromString(String string) {
+            String SEP = ", Country: ";
             int id = Integer.parseInt(string.split(SEP)[1]);
             List<Countries> CountryList = data.stream().filter(Countries -> Countries.equals(id))
                     .limit(1)
@@ -64,14 +63,7 @@ public class ComboBoxDisplay {
     }
 
     private ObservableList<InfectionCategory> sortCountryList() {
-        return countryList.sorted((o1, o2) -> {
-            if (o1.getStart() < o2.getStart())
-                return -1;
-            else if (o1.getStart() > o2.getStart())
-                return 1;
-            else
-                return 0;
-        });
+        return countryList.sorted(Comparator.comparingInt(InfectionCategory::getStart));
     }
 
     private void setUpCountries() {

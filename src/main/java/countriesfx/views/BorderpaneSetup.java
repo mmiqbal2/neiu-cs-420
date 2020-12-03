@@ -60,7 +60,6 @@ public class BorderpaneSetup {
         labelVBox.setAlignment(Pos.CENTER);
         vbox.getChildren().add(labelVBox);
         setUpHBox(hBox);
-        //borderPane.setTop(hBox);
         Button btn = new Button("Click Here To See Charts");
         Button btn2 = new Button("Back");
         btn2.setOnAction(e -> {
