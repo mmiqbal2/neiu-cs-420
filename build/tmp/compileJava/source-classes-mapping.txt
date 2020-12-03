@@ -1,6 +1,0 @@
-Retrievedata/TestRetreiveData.java
- Retrievedata.TestRetreiveData
-Retrievedata/WriteData.java
- Retrievedata.WriteData
-Retrievedata/CheckConn.java
- Retrievedata.CheckConn
