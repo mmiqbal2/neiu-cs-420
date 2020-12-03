@@ -16,6 +16,7 @@ From this application I am hoping to accomplish below results.
 1. What countries are safest to travel depending upon the surging cases?
 2. Find the number of cases that are reported by each country on day to day basis?
 3. The option to search by an individual country so users can see how many people have recovered and total number of cases on day to day basis?
+4. Can I provide the users with the graphical representation of the data in my Javafx Application?
 
 #### Motivation
 
