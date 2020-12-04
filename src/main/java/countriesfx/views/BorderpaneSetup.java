@@ -18,9 +18,9 @@ import javafx.stage.Stage;
 
 public class BorderpaneSetup {
     Scene scene1, scene2;
-    private ComboBoxDisplay comboBoxDisplay;
-    private Radiobuttons rb;
-    private Stage stage;
+    private final ComboBoxDisplay comboBoxDisplay;
+    private final Radiobuttons rb;
+    private final Stage stage;
     Label label = new Label();
 
     public BorderpaneSetup(){
@@ -36,7 +36,7 @@ public class BorderpaneSetup {
         stage = Scene1(borderPane);
     }
 
-    public   void show(){
+    public void show(){
         stage.show();
     }
 
@@ -51,21 +51,47 @@ public class BorderpaneSetup {
     }
 
     private void setUpBorderPane(BorderPane borderPane){
+
         VBox vbox = new VBox();
         HBox hBox = new HBox();
+        getFirstSenelabel(vbox);
+        setUpHBox(hBox);
+        Button btn = getbothButton();
+        vbox.getChildren().add(hBox);
+        setupfirstscene(borderPane, vbox, btn);
+
+    }
+
+    private void getFirstSenelabel(VBox vbox) {
         label = new Label("Welcome to my TrackCovid App");
         label.setStyle("-fx-font: 14px 'Tahoma';");
         VBox labelVBox = new VBox();
         labelVBox.getChildren().add(label);
         labelVBox.setAlignment(Pos.CENTER);
         vbox.getChildren().add(labelVBox);
-        setUpHBox(hBox);
+    }
+
+    private void setupfirstscene(BorderPane borderPane, VBox vbox, Button btn) {
+        HBox SBox = new HBox();
+        SBox.getChildren().add(comboBoxDisplay.getListView());
+        SBox.getChildren().add(btn);
+
+        VBox btnVBox = new VBox();
+        btnVBox.getChildren().add(btn);
+        btnVBox.setPadding(new Insets(50.0, 0, 0, 0));
+        btnVBox.setAlignment(Pos.CENTER);
+
+        VBox listVbox = new VBox();
+        listVbox.setPadding(new Insets(50.0, 0, 0, 0));
+        listVbox.getChildren().add(comboBoxDisplay.getListView());
+        vbox.getChildren().addAll(listVbox, btnVBox);
+        borderPane.setCenter(vbox);
+    }
+
+    private Button getbothButton() {
         Button btn = new Button("Click Here To See Charts");
         Button btn2 = new Button("Back");
-        btn2.setOnAction(e -> {
-
-            stage.setScene(scene1);
-        });
+        btn2.setOnAction(e -> stage.setScene(scene1));
         VBox btn2Vbox = new VBox();
         btn2Vbox.setAlignment(Pos.CENTER);
         btn2Vbox.setPadding(new Insets(0, 0, 10, 0));
@@ -77,20 +103,7 @@ public class BorderpaneSetup {
             scene2 = new Scene(borderPane1, 800, 500);
             stage.setScene(scene2);
         });
-        vbox.getChildren().add(hBox);
-
-        HBox SBox = new HBox();
-        SBox.getChildren().add(comboBoxDisplay.getListView());
-        SBox.getChildren().add(btn);
-        VBox listVbox = new VBox();
-        listVbox.setPadding(new Insets(50.0, 0, 0, 0));
-        VBox btnVBox = new VBox();
-        btnVBox.getChildren().add(btn);
-        btnVBox.setPadding(new Insets(50.0, 0, 0, 0));
-        btnVBox.setAlignment(Pos.CENTER);
-        listVbox.getChildren().add(comboBoxDisplay.getListView());
-        vbox.getChildren().addAll(listVbox, btnVBox);
-        borderPane.setCenter(vbox);
+        return btn;
     }
 
     private void setUpHBox(HBox hBox) {
@@ -106,7 +119,6 @@ public class BorderpaneSetup {
     private void setUpBorderPane1(BorderPane borderPane1){
         VBox vBox = rb.getvBox();
         vBox.setPadding(new Insets(10.0, 0.0, 0,10.0));
-
         borderPane1.setCenter(vBox);
     }
 

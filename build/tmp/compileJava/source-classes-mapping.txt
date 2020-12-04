@@ -1,13 +1,15 @@
-CovidApp.java
- CovidApp
+countriesfx/views/ComboBoxDisplay.java
+ countriesfx.views.ComboBoxDisplay
+ countriesfx.views.ComboBoxDisplay$1
+ countriesfx.views.ComboBoxDisplay$countriesStringConverter
 getapidata/TestRetreiveData.java
  getapidata.TestRetreiveData
 countriesfx/apireadata/NioReadFile.java
  countriesfx.apireadata.NioReadFile
 countriesfx/apireadata/CountriesMapping.java
  countriesfx.apireadata.CountriesMapping
-countriesfx/views/BorderpaneSetup.java
- countriesfx.views.BorderpaneSetup
+countriesfx/models/IRetriveData.java
+ countriesfx.models.IRetriveData
 countriesfx/views/Radiobdata.java
  countriesfx.views.Radiobdata
 countriesfx/apireadata/Exception.java
@@ -26,9 +28,7 @@ countriesfx/models/InfectionCategory.java
 countriesfx/apireadata/FilterCountries.java
  countriesfx.apireadata.FilterCountries
  countriesfx.apireadata.FilterCountries$1
-countriesfx/models/IRetriveData.java
- countriesfx.models.IRetriveData
-countriesfx/views/ComboBoxDisplay.java
- countriesfx.views.ComboBoxDisplay
- countriesfx.views.ComboBoxDisplay$1
- countriesfx.views.ComboBoxDisplay$countriesStringConverter
+CovidApp.java
+ CovidApp
+countriesfx/views/BorderpaneSetup.java
+ countriesfx.views.BorderpaneSetup
